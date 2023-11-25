@@ -1,2 +1,2 @@
 # PCA
-A Personal Care Assistant (PCA) is a professional who assists the elderly, disabled or people in recovery with performing day-to-day activities. For example, they help with household chores, hygiene and mobility support.
+Principal Component Analysis (PCA) is a linear dimensionality reduction technique that can be utilized for extracting information from a high-dimensional space by projecting it into a lower-dimensional sub-space.
